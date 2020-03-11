@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    /* background-image: url("25187.jpg"); */
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(182, 207, 229);
+}
+.container-fluid{
+   
+    padding: 10px 10px 0px ;
+}
